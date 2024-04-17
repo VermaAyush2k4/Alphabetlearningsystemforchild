@@ -1,6 +1,10 @@
 # Alphabetlearningsystemforchild
 # Overview:
-This project is proposed Alphabet learning system with different software tools which helps child to learn alphabet so that he can speak,pronounce that letter and practice that letter in canvas The demo is shown given below:
+This project is proposed Alphabet learning system with different software tools which helps child to learn alphabet so that he can speak,pronounce that letter and practice that letter in canvas.
+
+In this main page consists of 2 images 'learn alphabets' in which it helps to navigate page in which the child can pronounce each alphabet and in 'Practising alphabets' it consists of videos and canvas in which the child can see the video which step need to follow to draw letter and with the help of this he can practice that letter in canvas.
+
+The demo is shown given below:
 
 # Main page:
 
@@ -15,6 +19,4 @@ This project is proposed Alphabet learning system with different software tools 
 <img width="716" alt="Alphabets" src="https://github.com/VermaAyush2k4/Alphabetlearningsystemforchild/assets/117018341/6572b4ed-3a5f-4354-acfc-34a121aa6ec9">
 
 # Software tools:
-HTML,CSS,Javascripts
-
-In this main page consists of 2 images 'learn alphabets' in which it helps to navigate page in which the child can pronounce each alphabet and in 'Practising alphabets' it consists of videos and canvas in which the child can see the video which step need to follow to draw letter and with the help of this he can practice that letter in canvas.
+HTML,CSS,Javascripts.
