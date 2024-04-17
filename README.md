@@ -4,7 +4,7 @@ This project is proposed Alphabet learning system with different software tools 
 
 In this main page consists of 2 images 'learn alphabets' in which it helps to navigate page in which the child can pronounce each alphabet and in 'Practising alphabets' it consists of videos and canvas in which the child can see the video which step need to follow to draw letter and with the help of this he can practice that letter in canvas.
 
-The demo is shown given below:
+The demo given below:
 
 # Main page:
 
